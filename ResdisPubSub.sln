@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResdisPubSub", "ResdisPubSub\ResdisPubSub.csproj", "{DAA5EC11-FE01-44EF-B45E-99721F363356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA5EC11-FE01-44EF-B45E-99721F363356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA5EC11-FE01-44EF-B45E-99721F363356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA5EC11-FE01-44EF-B45E-99721F363356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA5EC11-FE01-44EF-B45E-99721F363356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5486DA1-90B9-4927-B783-72A232D2C97B}
+	EndGlobalSection
+EndGlobal
